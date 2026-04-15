@@ -7,7 +7,9 @@ Me chamo Matheus Lobão, tenho 27 anos e  sou de uma cidade do estado da Bahia c
 
 em 2023, iniciei a faculdade de Análise de Sistemas pela ESTÁCIO de forma remota vindo a concluir no ano de 2025.
 
-Sou apaixonado por tecnologia, autodidata, aprendi eletrônica, manutenção de computadores e celulares e atualmente estudo duas linguagens de programação: **PYTHON**(a qual estou me aprofundando no momento) e **C#**. Além do conhecimento em Banco de dados relacionais: **MySQL**, **SQLServer** e **PostgresSQL**.
+Sou apaixonado por tecnologia, autodidata, aprendi eletrônica, manutenção de computadores e celulares e atualmente estudo duas linguagens de programação: **PYTHON**(a qual estou me aprofundando no momento com **Django**) e **C#** com experiência em **.NET**. Além do conhecimento em Banco de dados relacionais: **MySQL**, **SQLServer** e **PostgresSQL**.
+
+Atualmente vivo em Taguatinga-DF e Trabalho com RMT EM Jogos(essa foto de perfil entrega um pouco).
 
 ## 🛠️ Linguagens e Tecnologias
 
