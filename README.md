@@ -1,5 +1,5 @@
 
-# 👨🏼‍💻 Matheus Lobão 
+##👨🏼‍💻 Matheus Lobão 
 
 **`Desenvolvedor full-stack, aspirante a análise de Dados`**
 
@@ -12,7 +12,7 @@ Sou apaixonado por tecnologia, autodidata, aprendi eletrônica, manutenção de 
 ## 🛠️ Linguagens e Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,py,django,git,mysql,mssql,cs,dotnet,postgres,powerbi&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,py,django,git,mysql,cs,dotnet,postgres,lua,linux,windows,apple,aws,docker,fastapi,htmx&perline=7&v=final" />
 </p>
 
 ## 🌐 Como você pode me encontrar:
