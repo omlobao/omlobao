@@ -1,13 +1,13 @@
 
 ## 👨🏼‍💻 Sobre Mim: 
 
-**`Desenvolvedor full-stack, aspirante a análise de Dados`**
+**`Desenvolvedor Back-End, aspirante a análise de Dados`**
 
 Me chamo Matheus Lobão, tenho 27 anos e  sou de uma cidade do estado da Bahia chamada "Teofilândia" (acho muito dificil você já ter ouvido falar). Conclui o ensino médio juntamente com técnico em informática pela Instituição CETEP-SISAL na cidade de Serrinha-BA. Em 2020, iniciei a faculdade de Sistemas de informações na faculdade Mauricio de Nassau - UNINASSAU a qual conclui apenas cinco semestres, vindo a trancar por motivos maiores.
 
 em 2023, iniciei a faculdade de Análise de Sistemas pela ESTÁCIO de forma remota vindo a concluir no ano de 2025.
 
-Sou apaixonado por tecnologia, autodidata, aprendi eletrônica, manutenção de computadores e celulares e atualmente estudo duas linguagens de programação: **PYTHON**(a qual estou me aprofundando no momento com **Django**) e **C#** com experiência em **.NET**. Além do conhecimento em Banco de dados relacionais: **MySQL**, **SQLServer** e **PostgresSQL**.
+Sou apaixonado por tecnologia, autodidata, aprendi eletrônica, manutenção de computadores e celulares e atualmente estudo duas linguagens de programação: **PYTHON**(a qual estou me aprofundando no momento com os frameworks **Django e Django Rest Framework**) e **C#** com experiência em **.NET**. Além do conhecimento em Banco de dados relacionais: **MySQL**, **SQLServer** e **PostgresSQL**.
 
 Atualmente vivo em Taguatinga-DF e Trabalho com RMT EM Jogos(essa foto de perfil entrega um pouco).
 
@@ -38,8 +38,8 @@ Atualmente vivo em Taguatinga-DF e Trabalho com RMT EM Jogos(essa foto de perfil
   </a>
   &nbsp;&nbsp;&nbsp;
 
-  <a href="omlobao@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="35" height="35" align="center" />
-    <span><b>E-mail</b></span>
+  <a href="mailto:omlobao@gmail.com" style="text-decoration: none; color: inherit;">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="35" height="35" style="vertical-align: middle;" alt="Gmail Icon" />
+    <span style="vertical-align: middle;"><b>E-mail</b></span>
   </a>
 </p>
