@@ -1,40 +1,40 @@
-
 ## 👨🏼‍💻 Sobre Mim: 
 
-**`Desenvolvedor Back-End, aspirante a análise de Dados`**
+**`Desenvolvedor Back-End e aspirante à Análise de Dados`**
 
-Me chamo Matheus Lobão, tenho 27 anos e  sou de uma cidade do estado da Bahia chamada "Teofilândia" (acho muito dificil você já ter ouvido falar). Conclui o ensino médio juntamente com técnico em informática pela Instituição CETEP-SISAL na cidade de Serrinha-BA. Em 2020, iniciei a faculdade de Sistemas de informações na faculdade Mauricio de Nassau - UNINASSAU a qual conclui apenas cinco semestres, vindo a trancar por motivos maiores.
+Me chamo Matheus Lobão, tenho 27 anos e sou de uma cidade do interior da Bahia chamada Teofilândia (acho muito difícil você já ter ouvido falar!). Concluí o ensino médio juntamente com o curso Técnico em Informática pelo CETEP-SISAL, na cidade de Serrinha-BA. Em 2020, iniciei a graduação em Sistemas de Informação na Faculdade Maurício de Nassau (UNINASSAU), da qual cursei cinco semestres, precisando trancar posteriormente por motivos de força maior.
 
-em 2023, iniciei a faculdade de Análise de Sistemas pela ESTÁCIO de forma remota vindo a concluir no ano de 2025.
+Em 2023, iniciei a graduação em Análise de Sistemas pela Estácio, de forma remota, concluindo-a no ano de 2025.
 
-Sou apaixonado por tecnologia, autodidata, aprendi eletrônica, manutenção de computadores e celulares e atualmente estudo duas linguagens de programação: **PYTHON**(a qual estou me aprofundando no momento com os frameworks **Django e Django Rest Framework**) e **C#** com experiência em **.NET**. Além do conhecimento em Banco de dados relacionais: **MySQL**, **SQLServer** e **PostgresSQL**.
+Sou apaixonado por tecnologia e autodidata. Aprendi eletrônica, além de manutenção de computadores e celulares. Atualmente, foco meus estudos em duas linguagens de programação: **Python** (na qual estou me aprofundando no momento com os frameworks **Django** e **Django Rest Framework**) e **C#**, possuindo experiência em **.NET**. Além disso, tenho conhecimento sólido em bancos de dados relacionais: **MySQL**, **SQL Server** e **PostgreSQL**.
 
-Atualmente vivo em Taguatinga-DF e Trabalho com RMT EM Jogos(essa foto de perfil entrega um pouco).
+Hoje, resido em Taguatinga-DF e trabalho com RMT em jogos (essa foto de perfil entrega um pouco!).
 
 ## 🛠️ Linguagens e Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,py,django,git,mysql,cs,dotnet,postgres,lua,linux,windows,apple,aws,docker,fastapi,htmx&perline=7&v=final" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,py,django,git,mysql,cs,dotnet,postgres,lua,linux,windows,apple,aws,docker,fastapi,htmx&perline=7&v=final" alt="Minhas Skills" />
 </p>
 
 ## 🌐 Como você pode me encontrar:
 
 <p align="left">
-  <a href="https://www.instagram.com/omlobao" target="_blank">
-    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="35" height="35" align="center" />
-    <span><b>omlobao</b></span>
+  <a href="https://www.instagram.com/omlobao" target="_blank" style="text-decoration: none; color: inherit;">
+    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="35" height="35" style="vertical-align: middle;" alt="Instagram" />
+    <span style="vertical-align: middle;"><b>omlobao</b></span>
   </a>
   &nbsp;&nbsp;&nbsp;
 
-  <a href="https://linkedin.com/in/seu-user" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="35" height="35" align="center" />
-    <span><b>LinkedIn</b></span>
+  <!-- Lembre-se de alterar "seu-user" no link abaixo para o seu usuário real do LinkedIn -->
+  <a href="https://linkedin.com/in/seu-user" target="_blank" style="text-decoration: none; color: inherit;">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="35" height="35" style="vertical-align: middle;" alt="LinkedIn" />
+    <span style="vertical-align: middle;"><b>LinkedIn</b></span>
   </a>
   &nbsp;&nbsp;&nbsp;
 
-  <a href="https://wa.me/5571991175273" target="_blank">
-    <img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="35" height="35" align="center" />
-    <span><b>WhatsApp</b></span>
+  <a href="https://wa.me/5571991175273" target="_blank" style="text-decoration: none; color: inherit;">
+    <img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="35" height="35" style="vertical-align: middle;" alt="WhatsApp" />
+    <span style="vertical-align: middle;"><b>WhatsApp</b></span>
   </a>
   &nbsp;&nbsp;&nbsp;
 
